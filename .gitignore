@@ -33,3 +33,31 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Android Studio generated files and folders
+.gradle/
+local.properties
+build.gradle
+
+# Folders containing built app outputs
+android/app/build/
+Components/Dashboard.js
+android/app/src/main/res/values-night/colors.xml
+android/app/src/main/res/values/styles.xml
+android/app/src/main/res/values/strings.xml
+android/app/src/main/res/values/colors.xml
+android/app/src/main/res/drawable/splashscreen_image.png
+android/app/src/main/java/com/numberama/MainApplication.kt
+android/app/src/main/java/com/numberama/MainActivity.kt
+android/app/src/main/java/com/anonymous/Numberama/MainApplication.kt
+android/app/src/main/java/com/anonymous/Numberama/MainActivity.kt
+android/app/src/main/AndroidManifest.xml
+android/app/build.gradle
+android/app/build.gradle
+android/app/src/main/AndroidManifest.xml
+android/app/src/main/java/com/numberama/MainActivity.kt
+android/app/src/main/java/com/numberama/MainApplication.kt
+android/app/src/main/res/drawable/splashscreen_image.png
+android/app/src/main/res/values/colors.xml
+android/app/src/main/res/values/strings.xml
+android/app/src/main/res/values/styles.xml
