@@ -41,7 +41,6 @@ build.gradle
 
 # Folders containing built app outputs
 android/app/build/
-Components/Dashboard.js
 android/app/src/main/res/values-night/colors.xml
 android/app/src/main/res/values/styles.xml
 android/app/src/main/res/values/strings.xml
