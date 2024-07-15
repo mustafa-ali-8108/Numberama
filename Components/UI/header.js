@@ -50,6 +50,9 @@ const styles = StyleSheet.create({
   centerContainer: {
     flexDirection: 'row',
     alignItems: 'center',
+    borderRadius: 12
+
+    
   },
   centerIcon: {
     margin: 0,
